@@ -1,6 +1,5 @@
 # Hi 👋 I'm Abdullah Khan
 
-🚀 **Associate SDET-focused QA Automation Engineer**  
 🧪 Passionate about automation, CI pipelines, and software quality
 
 ---
@@ -65,7 +64,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: Abdullah.goodsamaritan@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/abdullah-khan
+- 💼 LinkedIn: www.linkedin.com/in/abdullahkhan09
 
 ---
 
