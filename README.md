@@ -24,7 +24,7 @@
 
 ---
 
-## 📌 Projects
+## 🚀 some stuff I’ve built:
 
 ### 🔹 QA Hackathon – Automation Framework
 **Tech:** Python, Selenium, PyTest, GitHub Actions
