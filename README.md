@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔍 QA Automation / SDET (Early Career)
+- 🔍 QA Automation / SRE (Early Career)
 - 🧪 Hands-on with Selenium & PyTest
 - 🔁 CI experience with GitHub Actions
 - ☁️ Microsoft Azure Fundamentals (AZ-900)
@@ -20,7 +20,8 @@
 **Testing:** Functional, Regression, API Testing (basic)  
 **Monitoring:** Prometheus (basic), Log Analysis  
 **Tools:** JIRA, Redmine, ADB  
-**Methodologies:** Agile (Scrum), SDLC
+**Methodologies:** Agile (Scrum), SDLC 
+**Concepts:** Distributed Systems (basic), Microservices, RCA, API Integration
 
 ---
 
@@ -36,6 +37,7 @@
 ### 🔹 Health Monitor Application (Azure)
 **Tech:** Python, Flask, Docker, Azure App Service, Prometheus
 - `/health` and `/metrics` endpoints
+- Integrated Prometheus metrics to track uptime, latency, and service perform
 - Dockerized and deployed on Azure
 - Basic monitoring using Prometheus
 
