@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🔍 QA Automation / SRE (Early Career)
-- 🧪 Hands-on with Selenium & PyTest
+- 🧪 Hands-on with Selenium, PyTest, REST APIs, Postman
 - 🔁 CI experience with GitHub Actions
 - ☁️ Microsoft Azure Fundamentals (AZ-900)
 - 📍 New Delhi, India | 🌍 Open to relocate
