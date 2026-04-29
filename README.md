@@ -57,7 +57,6 @@
 ## Certifications
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
 
----
 
 ##  Connect With Me
 - Email: Abdullah.goodsamaritan@gmail.com
